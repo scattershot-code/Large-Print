@@ -20,7 +20,7 @@
 
 bl_info = {
     "name": "Large Print",
-    "author": "Duncan McKean <info@sparkwoodand21.com>",
+    "author": "Duncan McKean <hello@sparkwoodand21.com>",
     "version": (0, 3),
     "blender": (2, 7, 0),
     "location": "Render > Large Print",
