@@ -24,7 +24,7 @@ bl_info = {
     "version": (0, 4),
     "blender": (2, 7, 9),
     "location": "Render > Large Print",
-    "description": "Set the size of the render for a print. Based on Render to Print by Marco Crippa <thekrypt77@tiscali.it>, Dealga McArdle ",
+    "description": "Set the size of the render for suitable DPI for printing. Based on Render to Print by Marco Crippa <thekrypt77@tiscali.it>, Dealga McArdle ",
     "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/"
                 "Scripts/Render/Render to Print",
     "tracker_url": "https://projects.blender.org/tracker/index.php?"
