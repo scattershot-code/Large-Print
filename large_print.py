@@ -21,8 +21,8 @@
 bl_info = {
     "name": "Large Print",
     "author": "Duncan McKean <hello@sparkwoodand21.com>",
-    "version": (0, 3),
-    "blender": (2, 7, 8),
+    "version": (0, 4),
+    "blender": (2, 7, 9),
     "location": "Render > Large Print",
     "description": "Set the size of the render for a print. Based on Render to Print by Marco Crippa <thekrypt77@tiscali.it>, Dealga McArdle ",
     "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/"
