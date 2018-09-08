@@ -1,7 +1,7 @@
 Large-Print
 ===========
 
-Tested and works with Blender version 2.78c
+Tested and works with Blender version 2.79c
 
 Adapted large print plugin for Blender to suit my needs.
 
